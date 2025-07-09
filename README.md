@@ -13,8 +13,6 @@ The "IPL Win Predictor" leverages logistic regression to provide insights into t
 
 * Customizable Inputs: Adjust the match parameters and teams to simulate different match scenarios.
 
-* Deployment: Hosted on Streamlit Cloud for easy access and sharing.
-
 ### Usage
 To make predictions, provide the following parameters when prompted:
 
